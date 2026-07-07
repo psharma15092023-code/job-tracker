@@ -111,15 +111,19 @@ DELETE /jobs/:id
 
 ### Dashboard
 
-![Dashboard](screenshorts/dashboard.png)
+![Dashboard]<img width="1432" height="949" alt="dashboard" src="https://github.com/user-attachments/assets/aa8377f4-fa95-46e0-bec8-053dbf252747" />
+
+
 
 ### Add Job
 
-![Add Job](screenshorts/addjob.png)
+![Add Job]<img width="1920" height="1020" alt="addjob" src="https://github.com/user-attachments/assets/2550c6c6-c83f-4f05-b13c-7263553541f0" /><img width="1432" height="949" alt="dashboard" src="https://github.com/user-attachments/assets/aa8377f4-fa95-46e0-bec8-053dbf252747" />
+
 
 ### Job List
 
-![Job List](screenshorts/joblist.png)
+![Job List]
+<img width="1920" height="1020" alt="joblist" src="https://github.com/user-attachments/assets/00d8bd0e-88a6-43f1-bd86-c4ee27c65726" />
 
 
 ## Future Improvements
@@ -132,7 +136,8 @@ DELETE /jobs/:id
 
 ## Author
 
-Pooja Sharma
+Pooja Sharma<img width="1920" height="1020" alt="addjob" src="https://github.com/user-attachments/assets/2550c6c6-c83f-4f05-b13c-7263553541f0" />
+
 
 ## License
 
