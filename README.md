@@ -121,6 +121,7 @@ DELETE /jobs/:id
 
 ![Job List](screenshorts/joblist.png)
 
+
 ## Future Improvements
 
 * User authentication
