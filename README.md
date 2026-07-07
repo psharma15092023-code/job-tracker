@@ -136,7 +136,7 @@ DELETE /jobs/:id
 
 ## Author
 
-Pooja Sharma<img width="1920" height="1020" alt="addjob" src="https://github.com/user-attachments/assets/2550c6c6-c83f-4f05-b13c-7263553541f0" />
+Pooja Sharma
 
 
 ## License
