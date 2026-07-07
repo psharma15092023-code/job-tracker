@@ -111,11 +111,11 @@ DELETE /jobs/:id
 
 ### Dashboard
 
-![Dashboard](./screenshorts/dashboard.png)
+![Dashboard](screenshorts/dashboard.png)
 
 ### Add Job
 
-![Add Job](./screenshorts/addjob.png)
+![Add Job](screenshorts/addjob.png)
 
 ### Job List
 
